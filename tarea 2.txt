@@ -1,2 +1,5 @@
 significado de repositorio...!
 Almacén o lugar donde se guardan ciertas cosas
+
+segun el articulo que significa git..!!
+es un sistema de control de vrersiiones: un software que permite registrar el historial de cambios de un proyecto..
