@@ -1,0 +1,5 @@
+cual es la diferencia entre Gih y gidhud..!
+git es un software de VCS local que permite a los desarrolladores guardar instantáneas de sus proyectos
+ a lo largo del tiempo. ... GitHub es una plataforma basada en la web que incorpora las características
+ de control de versiones de git para que puedan ser utilizadas de 
+forma colaborativa.
